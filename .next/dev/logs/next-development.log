@@ -1,0 +1,1317 @@
+[00:00:00.971] Server  LOG     ✓ Ready in 664ms
+[00:00:04.502] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:05.380] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:00:59.738] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:59.743] Server  LOG     ✓ Compiled in 2.3s
+[00:00:59.929] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/src_app_globals_91e4631d.css
+[00:03:38.201] Server  LOG     ✓ Compiled in 1614ms
+[00:04:03.040] Server  LOG     ✓ Compiled in 2.2s
+[00:04:19.856] Server  LOG     ✓ Compiled in 1801ms
+[00:04:39.744] Server  LOG     ✓ Compiled in 2.4s
+[00:04:58.753] Server  LOG     ✓ Compiled in 701ms
+[00:05:19.857] Server  LOG     ✓ Compiled in 1166ms
+[00:05:28.327] Server  LOG     ✓ Compiled in 993ms
+[00:06:49.867] Server  LOG     ✓ Compiled in 1147ms
+[00:07:47.099] Server  LOG     ✓ Compiled in 1276ms
+[00:09:31.414] Server  LOG     ✓ Compiled in 821ms
+[00:10:04.839] Server  ERROR   ⨯ ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+
+
+[00:10:05.149] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:10:06.604] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:10:07.034] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:10:07.375] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:10:07.388] Server  ERROR   ⨯ ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+
+
+[00:10:07.523] Server  ERROR   ⨯ ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+
+
+[00:10:07.538] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:10:07.945] Browser ERROR   uncaughtError: Error: ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+
+
+[00:10:08.158] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:10:08.158] Browser ERROR   ./src/app/(auth)/layout.tsx:1:44
+Parsing ecmascript source code failed
+> 1 | export default function AuthLayout({export default function AuthLayout({
+    |                                            ^^^^^^^
+  2 |
+  3 |
+  4 |
+
+Expected ',', got 'default'
+[00:11:36.202] Server  LOG     ✓ Compiled in 1386ms
+[00:11:48.766] Server  LOG     ✓ Compiled in 3s
+[00:13:37.019] Server  LOG     ✓ Compiled in 1410ms
+[00:14:51.997] Server  LOG     ✓ Compiled in 725ms
+[00:16:37.990] Server  LOG     ✓ Compiled in 2.1s
+[00:17:01.539] Server  LOG     ✓ Compiled in 380ms
+[00:17:13.323] Server  LOG     ✓ Compiled in 328ms
+[00:18:05.467] Server  LOG     ✓ Compiled in 465ms
+[00:18:36.078] Server  LOG     ✓ Compiled in 1932ms
+[00:19:13.537] Server  LOG     ✓ Compiled in 1202ms
+[00:24:36.045] Server  LOG     ✓ Compiled in 2.2s
+[00:24:51.615] Server  LOG     ✓ Compiled in 442ms
+[00:25:11.191] Server  LOG     ✓ Compiled in 5.5s
+[00:25:42.010] Server  LOG     ✓ Compiled in 1709ms
+[00:25:57.326] Server  LOG     ✓ Compiled in 1436ms
+[00:26:28.189] Server  LOG     ✓ Compiled in 1085ms
+[00:26:47.293] Server  LOG     ✓ Compiled in 945ms
+[00:27:01.386] Server  LOG     ✓ Compiled in 2.3s
+[00:29:48.686] Server  LOG     ✓ Compiled in 18s
+[00:30:43.665] Server  LOG     ✓ Compiled in 9.3s
+[00:32:14.497] Server  LOG     ✓ Compiled in 43ms
+[00:32:46.428] Server  LOG     ○ Compiling /settings ...
+[00:35:06.326] Server  LOG     ✓ Compiled in 0ms
+[00:39:27.994] Server  LOG     ○ Compiling /customers ...
+[00:46:49.313] Server  LOG     ✓ Compiled in 1027ms
+[00:47:06.629] Server  LOG     ✓ Compiled in 3.9s
+[00:47:10.644] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:10.672] Server  LOG     ✓ Compiled in 3.5s
+[00:47:10.846] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:10.847] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:11.523] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:11.523] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:11.544] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.586] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.655] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.687] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.719] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.756] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:11.756] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:11.756] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:11.756] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:11.768] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.770] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.842] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:11.932] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:12.107] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:12.645] Browser ERROR   uncaughtError: Error: ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+[00:47:12.890] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:12.891] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:12.891] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.218] Server  ERROR   ⨯ ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+
+./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+
+[00:47:41.610] Browser ERROR   uncaughtError: Error: ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+
+[00:47:41.804] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.804] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.804] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.804] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.804] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.804] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.804] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.805] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.805] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.805] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.805] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.805] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.805] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.805] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.805] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.805] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:47:41.805] Browser ERROR   ./src/app/landing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/landing and /landing.
+[00:47:41.805] Browser ERROR   ./src/app/pricing
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/pricing and /pricing.
+[00:48:17.968] Server  LOG     ✓ Compiled in 992ms
+[00:49:44.056] Server  LOG     ✓ Compiled in 1917ms
+[00:50:44.738] Server  LOG     ✓ Compiled in 255ms
+[00:51:45.171] Server  LOG     ✓ Compiled in 2.9s
+[00:53:07.574] Server  LOG     ✓ Compiled in 1042ms
+[00:53:21.458] Server  LOG     ✓ Compiled in 969ms
+[00:53:30.879] Server  LOG     ✓ Compiled in 410ms
+[00:54:51.473] Server  LOG     ✓ Compiled in 322ms
+[00:55:39.007] Server  LOG     ✓ Compiled in 1783ms
+[00:55:39.171] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:43.891] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:46.966] Server  ERROR   ⨯ ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+
+
+[00:55:47.165] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.705] Browser ERROR   uncaughtError: Error: ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+
+
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:55:47.904] Browser ERROR   ./src/components/sidebar.tsx:94:25
+Parsing ecmascript source code failed
+  92 |                 <nav className="flex-1 space-y-2 px-4">
+  93 |                     {navItems.map((item) => (
+> 94 |                         const isActive = pathname === item.href;
+     |                         ^^^^^
+  95 |                         <Link
+  96 |                             key={item.label}
+  97 |                             href={item.href}
+
+Expected '</', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/components/sidebar.tsx
+    ./src/app/(dashboard)/layout.tsx
+[00:56:35.770] Server  LOG     ✓ Compiled in 441ms
+[00:56:50.299] Server  LOG     ✓ Finished filesystem cache database compaction in 10.1s
+[00:58:22.244] Server  LOG     ✓ Compiled in 794ms
+[00:59:53.680] Server  LOG     ✓ Compiled in 867ms
+[01:41:40.724] Server  LOG     ✓ Compiled in 1226ms
+[01:58:05.256] Server  LOG     ✓ Compiled in 2.6s
+[02:00:50.322] Server  LOG     ✓ Compiled in 1405ms
+[02:08:42.503] Server  LOG     ✓ Compiled in 6.6s
+[02:08:43.471] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/components/sidebar.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[04:55:29.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:55:36.636] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:57:30.423] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:58:06.573] Server  LOG     ✓ Compiled in 5.8s
+[06:58:43.908] Server  LOG       Reload env: .env.local
+[06:58:48.442] Server  LOG       Reload env: .env.local
+[06:59:20.266] Server  LOG     ✓ Compiled in 4.2s
+[06:59:23.017] Server  LOG     ✓ Compiled in 105ms
+[06:59:32.033] Server  LOG     ✓ Finished writing to filesystem cache in 11.1s
+[07:00:06.390] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:00:32.971] Server  LOG     ✓ Compiled in 5.9s
+[07:00:33.388] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:00:33.390] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:00:52.147] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:00:52.147] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:00:52.380] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:00:52.380] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:01:29.474] Server  LOG     ✓ Compiled in 2.5s
+[07:01:30.381] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:01:30.381] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:01:30.381] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:01:30.381] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:01:58.380] Server  LOG     ✓ Compiled in 1771ms
+[07:01:59.383] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:01:59.383] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:02:06.378] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:02:06.379] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:02:34.278] Server  LOG     ✓ Compiled in 1538ms
+[07:02:34.385] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:02:34.385] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:02:40.379] Browser ERROR   ./src/components/auth/auth-form.tsx:67:29
+Parsing ecmascript source code failed
+  65 |       }
+  66 |
+> 67 |       const loginResponse = await apiFetch<{ requestId?: string }>('/auth/login', {
+     |                             ^^^^^
+  68 |         method: 'POST',
+  69 |         body: {
+  70 |           email: trimmedEmail,
+
+await isn't allowed in non-async function
+
+Import trace:
+  Server Component:
+    ./src/components/auth/auth-form.tsx
+    ./src/app/(auth)/login/page.tsx
+[07:02:40.379] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:05:47.453] Server  LOG     ✓ Compiled in 2.5s
+[07:05:48.395] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:06:08.380] Browser ERROR   ./src/app/(auth)/otp/page.tsx:59:30
+Parsing ecmascript source code failed
+  57 |       const pending = pendingRaw ? JSON.parse(pendingRaw) : null;
+  58 |
+> 59 |       const verifyResponse = await apiFetch<{
+     |                              ^^^^^
+  60 |         accessToken?: string;
+  61 |         refreshToken?: string;
+  62 |         expiresIn?: number;
+
+await isn't allowed in non-async function
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(auth)/otp/page.tsx [Client Component Browser]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(auth)/otp/page.tsx [Client Component SSR]
+    ./src/app/(auth)/otp/page.tsx [Server Component]
+[07:06:30.488] Server  LOG     ✓ Compiled in 805ms
+[07:24:07.393] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/analytics/page.tsx
+
+  Client Component Browser:
+    ./src/lib/swr.ts [Client Component Browser]
+    ./src/components/revenue-graph.tsx [Client Component Browser]
+    ./src/components/revenue-graph.tsx [Server Component]
+    ./src/app/(dashboard)/analytics/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/swr.ts [Client Component SSR]
+    ./src/components/revenue-graph.tsx [Client Component SSR]
+    ./src/components/revenue-graph.tsx [Server Component]
+    ./src/app/(dashboard)/analytics/page.tsx [Server Component]
+[07:24:36.378] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/analytics/page.tsx
+
+  Client Component Browser:
+    ./src/lib/swr.ts [Client Component Browser]
+    ./src/components/revenue-graph.tsx [Client Component Browser]
+    ./src/components/revenue-graph.tsx [Server Component]
+    ./src/app/(dashboard)/analytics/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/swr.ts [Client Component SSR]
+    ./src/components/revenue-graph.tsx [Client Component SSR]
+    ./src/components/revenue-graph.tsx [Server Component]
+    ./src/app/(dashboard)/analytics/page.tsx [Server Component]
+[07:24:39.378] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/analytics/page.tsx
+
+  Client Component Browser:
+    ./src/lib/swr.ts [Client Component Browser]
+    ./src/components/revenue-graph.tsx [Client Component Browser]
+    ./src/components/revenue-graph.tsx [Server Component]
+    ./src/app/(dashboard)/analytics/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/swr.ts [Client Component SSR]
+    ./src/components/revenue-graph.tsx [Client Component SSR]
+    ./src/components/revenue-graph.tsx [Server Component]
+    ./src/app/(dashboard)/analytics/page.tsx [Server Component]
+[07:25:16.381] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/customers/page.tsx
+[07:25:37.377] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:25:54.406] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:26:02.389] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:26:14.381] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:26:26.421] Server  LOG     ✓ Compiled in 528ms
+[07:26:27.378] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:26:44.382] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:26:54.393] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:27:02.380] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:27:15.378] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:27:50.418] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:27:59.377] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:28:20.379] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:28:25.379] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:28:37.488] Server  LOG     ✓ Compiled in 576ms
+[07:28:38.383] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:28:52.565] Server  LOG     ✓ Compiled in 758ms
+[07:28:53.379] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:28:57.378] Browser ERROR   ./src/lib/swr.ts:1:1
+Export default doesn't exist in target module
+> 1 | import useSWR from 'swr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { apiFetch, getStoredSession } from './api';
+  3 |
+  4 | type FetcherResponse<T> = Promise<T>;
+
+The export default was not found in module [project]/node_modules/swr/dist/index/react-server.mjs [app-rsc] (ecmascript).
+Did you mean to import unstable_serialize?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./src/lib/swr.ts
+    ./src/app/(dashboard)/payouts/page.tsx
+[07:29:17.476] Server  LOG     ✓ Compiled in 403ms
+[07:31:57.871] Server  LOG     ○ Compiling /signup ...
+[07:40:26.698] Server  LOG     ✓ Compiled in 2.6s
+[07:40:45.388] Server  LOG     ✓ Compiled in 916ms
+[07:41:01.353] Server  LOG     ✓ Compiled in 1227ms

@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can be added below this line */
+body {
+    @apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100;
+}
+
+@keyframes fade-up {
+    0% {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.animate-fade-up {
+    animation: fade-up 0.6s ease both;
+}
+
+.animate-fade-in {
+    animation: fade-in 0.5s ease both;
+}
+
+.animate-delay-100 {
+    animation-delay: 0.1s;
+}
+
+.animate-delay-200 {
+    animation-delay: 0.2s;
+}
+
+.animate-delay-300 {
+    animation-delay: 0.3s;
+}
+
+.animate-delay-400 {
+    animation-delay: 0.4s;
+}
+
+.container {
+    @apply mx-auto px-4;
+}
+
+.card {
+    @apply bg-white shadow-md rounded-lg p-4;
+}
+
+.table {
+    @apply min-w-full bg-white;
+}
+
+.table th, .table td {
+    @apply border-b border-gray-200 px-4 py-2;
+}
+
+.sidebar {
+    @apply bg-gray-800 text-white;
+}
+
+.top-nav {
+    @apply bg-white shadow;
+}
+
+.metric-card {
+    @apply flex flex-col items-center justify-center p-4 rounded-lg shadow-md;
+}
