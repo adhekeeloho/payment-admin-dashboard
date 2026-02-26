@@ -170,7 +170,7 @@ const TransactionTable: React.FC<TransactionTableProps> = ({ transactions }) => 
                 <td className="px-4 py-3">
                   <span
                     className={`rounded-full border px-3 py-1 text-xs font-semibold ${
-                      statusStyles[transaction.status]
+                      statusStyles[transaction.status as Transaction['status']] ?? ''
                     }`}
                   >
                     {transaction.status}
